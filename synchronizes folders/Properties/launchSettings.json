@@ -2,7 +2,7 @@
   "profiles": {
     "synchronizes folders": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\Users\\Ocire\\source\\repos\\synchronizes folders\\synchronizes folders\\source\\\\\" \"C:\\Users\\Ocire\\source\\repos\\synchronizes folders\\synchronizes folders\\replica\\\\\" 3000 log.txt"
+      "commandLineArgs": "\"..\\..\\..\\source\\\\\" \"..\\..\\..\\replica\\\\\" 3000 log.txt"
     }
   }
 }
